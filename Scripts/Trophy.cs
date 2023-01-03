@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
-namespace GameGrid
+namespace Dimensional
 {
     [RequireComponent(typeof(BoxCollider), typeof(Rigidbody))]
     public class Trophy : MonoBehaviour, ISaveable
